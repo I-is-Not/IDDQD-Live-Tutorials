@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index version="1" name="I-is-Not">
+  <category name="Takes Properties">
+    <reapack name="RenameTakesToOriginalFileName" type="script" desc="">
+      <version name="1.0.0">
+         <source main="main">https://github.com/I-is-Not/IDDQD-Live-Tutorials/raw/1e377c9034e1177a88b1bebfec11aef247485d74/RenameTakesToOriginalFileNameWithExtension.lua</source>
+         <source main="main">https://github.com/I-is-Not/IDDQD-Live-Tutorials/raw/1e377c9034e1177a88b1bebfec11aef247485d74/RenameTakesToOriginalFileNameWithoutExtension.lua</source>
+      </version>
+      <!-- <metadata>
+        <link rel="website">http://example.com</link>
+        <link rel="donation" href="http://example.com">Optional Label</link>
+        <link rel="screenshot" href="http://example.com/a.png">First Feature</link>
+        <link rel="screenshot" href="http://example.com/b.png">Second Feature</link>
+        <description><![CDATA[{\rtf1 {\fonttbl {\f0 Helvetica;}} \f0\fs60 Documentation for this package!}]]></description>
+      </metadata> -->
+    </reapack>
+  </category>
+  <!-- <metadata>
+    <link rel="website">http://example.com</link>
+    <link rel="donation" href="http://example.com">Label</link>
+    <link rel="screenshot">http://example.com</link>
+    <description><![CDATA[{\rtf1 {\fonttbl {\f0 Helvetica;}} \f0\fs60 Description of the repository!}]]></description>
+  </metadata> -->
+</index>
